@@ -1,1 +1,6 @@
 loxmaty.com
+dig www.example.com +nostats +nocomments +nocmd
+# ;www.loxmaty.com.                     IN      A
+# www.loxmaty.com.              3592    IN      CNAME   loxmaty.github.io.
+# loxmaty.github.io.           43192   IN      CNAME   github.map.fastly.net.
+# github.map.fastly.net.                 22      IN      A       199.27.76.133
