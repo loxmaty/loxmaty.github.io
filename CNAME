@@ -1,5 +1,1 @@
 loxmaty.com
-dig example.com +nostats +nocomments +nocmd
-;loxmaty.com
-loxmaty.com.   73  IN  A 192.30.252.153
-loxmaty.com.   73  IN  A 192.30.252.154
